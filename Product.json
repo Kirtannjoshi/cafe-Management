@@ -1,0 +1,20 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Cappuccino",
+    "price": 120,
+    "category": "Coffee"
+  },
+  {
+    "product_id": "P002",
+    "name": "Cold Coffee",
+    "price": 150,
+    "category": "Coffee"
+  },
+  {
+    "product_id": "P003",
+    "name": "Veg Sandwich",
+    "price": 80,
+    "category": "Snacks"
+  }
+]

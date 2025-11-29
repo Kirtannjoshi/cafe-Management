@@ -1,0 +1,21 @@
+[
+  {
+    "order_id": "O001",
+    "customer_id": "C001",
+    "items": [
+      { "product_id": "P001", "qty": 1 },
+      { "product_id": "P003", "qty": 2 }
+    ],
+    "total_price": 280,
+    "order_date": "2024-01-01"
+  },
+  {
+    "order_id": "O002",
+    "customer_id": "C002",
+    "items": [
+      { "product_id": "P002", "qty": 1 }
+    ],
+    "total_price": 150,
+    "order_date": "2024-01-10"
+  }
+]

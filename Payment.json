@@ -1,0 +1,8 @@
+{
+  "_id": "ObjectId",
+  "userId": "12345",
+  "amount": 500,
+  "paymentMethod": "Credit Card",
+  "status": "Completed",
+  "createdAt": "ISODate(\"2025-11-29T00:00:00Z\")"
+}

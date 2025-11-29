@@ -1,0 +1,14 @@
+[
+  {
+    "employee_id": "E001",
+    "name": "Suresh Kumar",
+    "role": "Cashier",
+    "salary": 15000
+  },
+  {
+    "employee_id": "E002",
+    "name": "Anjali Desai",
+    "role": "Barista",
+    "salary": 18000
+  }
+]
